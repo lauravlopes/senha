@@ -2,10 +2,10 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #2e0000;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --cor-de-fundo: #9b0081;
+    --fundo-senha: #ca2da3;
+    --fundo-texto: #700067;
+    --borda: #ea00ff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #E71B32;
+    background-color: #640377;
 }
 
 .media {
-    background-color: #FAF408;
+    background-color: #7f058f;
     width: 50%;
 }
 
 .forte {
-    background-color: #00FF85;
+    background-color: #ff00ea;
     width: 100%;
 }
 
